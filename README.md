@@ -59,6 +59,13 @@ To keep this collection up-to-date need contributors who can add more Program Ar
   <img src="https://i.postimg.cc/FRqKQ80F/Whats-App-Image-2023-02-04-at-10-12-25.jpg" style="height:205px;" "width:205px;"/>
 </p>
 
+# :speech_balloon: Notice
+<p align="center">
+  <img src="https://i.postimg.cc/cCLfDrf8/notice.jpg" style="height:205px;" "width:205px;"/>
+  <img src="https://i.postimg.cc/9QZwYGsn/nama.jpg" style="height:205px;" "width:205px;"/>
+</p>
+
+
 # :clipboard: Code Google Sheet
 
 ```bash
