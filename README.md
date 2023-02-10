@@ -245,7 +245,7 @@ void loop(){
    if (client.connect(server, 80)) {
     Serial.println("connected");
     // Make a HTTP request:
-    client.print("GET /pushingbox?devid=v2AF00D791BF901E&allowed_members=");     //YOUR URL CUSTOM
+    client.print("GET /pushingbox?devid=vE28B66ED46C9137&allowed_members=");     //YOUR URL CUSTOM
     if(j!=No_Of_Card)
     {
       client.print('1');
