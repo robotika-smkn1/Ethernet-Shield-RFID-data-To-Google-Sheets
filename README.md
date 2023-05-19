@@ -10,21 +10,11 @@
   <img src="https://i.postimg.cc/tRZw0xQ4/logo-removebg-preview.png" alt="robotika smkn1 kotabekasi logo"/ style="height:350px;" "width: 350px;">
 </p>
 
-  
+  <p align="center">
 [![Version](https://img.shields.io/badge/VENOM-1.0.17-brightgreen.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 ![licence](https://img.shields.io/badge/license-GPLv3-brightgreen.svg)
 [![Coverity Scan Build Status](https://scan.coverity.com/projects/aircrack-ng/badge.svg)](##Link##)
-
-<p align="center">
-  <a href="https://github.com/IndonesianDev/whatsapp-bot"><img title="Stars" src="https://img.shields.io/github/stars/IndonesianDev/whatsapp-bot?color=black&style=flat-square" /></a>
-  <a href="https://github.com/IndonesianDev/whatsapp-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/IndonesianDev/whatsapp-bot??color=pink&style=flat-square" /></a>
-  <a href="https://github.com/IndonesianDev/whatsapp-bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/IndonesianDev/whatsapp-bot??label=watchers&color=blue&style=flat-square" /></a> <br>
-  <a href="https://www.npmjs.com/package/@open-wa/wa-automate"><img src="https://img.shields.io/npm/v/@open-wa/wa-automate.svg?color=green" /></a>
-  <img src="https://img.shields.io/node/v/@open-wa/wa-automate" />
-  <img src="https://img.shields.io/github/repo-size/IndonesianDev/whatsapp-bot" /> <br>
-<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FIndonesianDev%2Fwhatsapp-bot?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FIndonesianDev%2Fwhatsapp-bot.svg?type=shield"/></a>
-  <a href="https://www.codefactor.io/repository/github/indonesiandev/whatsapp-bot"><img src="https://www.codefactor.io/repository/github/indonesiandev/whatsapp-bot/badge" alt="CodeFactor" /></a>
 </p>
   
 
